@@ -30,3 +30,20 @@ __Cost and Feature:__
 * How
 
     This project takes all the required input values and produces the output based on that.
+    
+## FOLDER STRUCTURE
+
+|       Folder              |           Description              |
+|---------------------------|------------------------------------|
+|0_Certificates             |All the required Certs are here     |
+|1_Requirements             |Documents detailing requirements    |
+|2_Architecture             |Detail about design and uml diagrams|
+|3_Implementation           |All the codes are written here      |
+|4_TestPlan                 |Documents with Test plan and output |
+|5_Report                   |Generated Report file               |
+
+## Learning Resources
+
+* TutorialsPoint
+* JavaTpoint
+* geeksforgeeks
