@@ -20,13 +20,13 @@
 
  void List_Record(){
      rewind(fp); ///this moves file cursor to start of the file
-                while(fread(&e,record_size,1,fp)==1){ /// read the file and fetch the record one record per fetch
+                while(fread(&entity,record_size,1,fp)==1){ /// read the file and fetch the record one record per fetch
                     printf("\n%s %d %.2f\n",entity.name,entity.age,entity.bs); /// print the name, age and basic salary
                 }
  }
 
  void Modify_Record(){
-another = 'y';
+other = 'y';
                 while(other == 'y'){
                     printf("Enter the employee name to modify: ");
                     scanf("%s", employeename);
