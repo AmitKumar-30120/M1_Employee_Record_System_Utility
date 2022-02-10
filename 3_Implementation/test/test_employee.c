@@ -1,9 +1,9 @@
 /**
  * @file tset_employee.c
- * @author raaga.vardhini@ltts.com
+ * @author amit.kumar7@ltts.com
  * @brief 
  * @version 0.1
- * @date 2021-09-08
+ * @date 2022-02-11
  * 
  * @copyright Copyright (c) 2021
  * 
@@ -43,15 +43,15 @@ int main()
 
 /* Write all the test functions */ 
 void test_ADD_Record(void) {
-  TEST_ASSERT_EQUAL(raaga 22 35000, Add_Record(raaga, 22, 35000));
+  TEST_ASSERT_EQUAL(Amit 22 35000, Add_Record(Amit, 22, 35000));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(12 raaga 35000, Add_Record(raaga, 12, 7500));
+  TEST_ASSERT_EQUAL(12 Amit 35000, Add_Record(Amit, 12, 7500));
 }
 
 void test_Modify_Record(void) {
-  TEST_ASSERT_EQUAL(raaga, Modify_Record( raaga));
+  TEST_ASSERT_EQUAL(Amit, Modify_Record( Amit));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(raaga, Modify_Record(abc));
+  TEST_ASSERT_EQUAL(Amit, Modify_Record(abc));
 }
