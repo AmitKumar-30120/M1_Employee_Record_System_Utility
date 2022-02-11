@@ -53,6 +53,37 @@ __Cost and Feature:__
 * How
 
     This project takes all the required input values and produces the output based on that.
+
+## **Swot Analysis:**
+
+## Strengths:
+a) Simple & Easy to Use.
+
+b) Increased Employee detail Record.
+
+c) Efficient Cloud Data Management.
+
+d) Highly Secure, Scalable & Reliable. 
+
+e) Mobile Access.
+
+## Weakness:
+a) The data stored is prone to cyber hacks.
+
+b) Costly and Expensive.
+
+c) Complicated to operate.
+
+d) Online Systems require high-speed internet connectivity.
+
+e) Risk of computer virus.
+
+## Opportunities:
+The Employee Record System leaks outward into new spaces, spaces which it didn’t inhabit before, such as reading lists repositories, learning systems, research data management and so forth. Furthermore, it is likely that the future of Employee Record systems will consist of a mixture of open and closed systems as well as local and shared (or hosted) services.
+
+## Threats:
+Employee date is now send and retrieve data from databases to help better manage inventory and the like, but some Employe Record don’t have the right data encryption practices in place. This can often lead to lost data and sometimes, the data easily obtainable by criminals.
+
     
 ## FOLDER STRUCTURE
 
