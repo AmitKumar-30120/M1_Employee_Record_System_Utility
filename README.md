@@ -17,8 +17,6 @@
 
 [![Cppcheck](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/cpp.yml/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/cpp.yml)
 
-## Git Inspector
-
 # Employee Record System
 The mini project Employee Record System, a console application has been made using the c programming language. I am going to make this project in Visual Studio Code and push it into Github using all the required softwares like git,vs code and github platform. Using this application user can do basic employee company relatinship like adding employee info, viewing stored employees info, search employees. 
 # Research
