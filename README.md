@@ -15,6 +15,8 @@
 
 [![CI](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/main.yml/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/main.yml)
 
+[![Unit Testing - Unity](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/unity.yml/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/unity.yml)
+
 ## Git Inspector
 
 # Employee Record System
