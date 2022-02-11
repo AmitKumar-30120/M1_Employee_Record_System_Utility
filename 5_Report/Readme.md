@@ -38,3 +38,35 @@ __LOW LEVEL REQUIREMENTS__
 | HR04  |  The application will ask user enter name (for modifying).                               | HR04  |IMPLEMENTED|
 | HR05  |  The application will ask user to enter name (for deleting).                             | HR05  |IMPLEMENTED|     
 | HR06  |  The user can exit from application by choosing 5.                                       | HR06  |IMPLEMENTED| 
+
+## Architecture/Design
+
+ * Add UML Diagrams
+ 
+ For information about UML Diagrams refer: UML Diagrams
+ 
+# Tools
+
+[Draw.io](https://app.diagrams.net/)
+
+[Creately](https://creately.com/?msclkid=4a851761ddf41773ed1575657457a748)
+
+or any other free tools
+
+
+
+
+__Behavioral Diagram__
+
+   Activity Diagram
+   
+    ->High level 
+    -->Low level
+    
+__Strutural Diagram__
+    
+    Class Diagram
+       --> high level 
+       
+ 
+ 
