@@ -1,7 +1,5 @@
 # BADGES
 
-![Code Quality](https://app.codacy.com/gh/AmitKumar-30120/M1_Employee_Record_System_Utility/dashboard)
-
 ## Code Quality
 
 ![Code Quality Score](https://api.codiga.io/project/30986/score/svg)
