@@ -1,8 +1,7 @@
 
-## References
 
-![Link of reference](https://github.com/raagavardhini/Stepin-Employee-Record-System.git)
 
+<<<<<<< HEAD
 * I have taken the references from above link and from some of my friends and i have done on my own till the point i get it only.
 
 ## Learning Resources
@@ -16,3 +15,5 @@
 
 
 
+=======
+>>>>>>> bf5412b62b32a0939088462a1127534591765f79
