@@ -61,7 +61,7 @@ a) Simple & Easy to Use.
 
 b) Increased Employee detail Record.
 
-c) Efficient Cloud Data Management.
+c) Efficient Data Management.
 
 d) Highly Secure, Scalable & Reliable. 
 
