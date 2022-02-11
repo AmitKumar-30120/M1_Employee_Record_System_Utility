@@ -13,6 +13,8 @@
 
 [![pages-build-deployment](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/pages/pages-build-deployment)
 
+[![CI](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/main.yml/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/main.yml)
+
 ## Git Inspector
 
 # Employee Record System
