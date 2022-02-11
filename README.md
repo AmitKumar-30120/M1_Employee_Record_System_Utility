@@ -17,6 +17,8 @@
 
 [![Unit Testing - Unity](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/unity.yml/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/unity.yml)
 
+[![Cppcheck](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/cpp.yml/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/cpp.yml)
+
 ## Git Inspector
 
 # Employee Record System
