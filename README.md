@@ -10,6 +10,9 @@
 
 ![Codacy Grade](https://api.codiga.io/project/30986/status/svg)
 
+
+[![pages-build-deployment](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/AmitKumar-30120/M1_Employee_Record_System_Utility/actions/workflows/pages/pages-build-deployment)
+
 ## Git Inspector
 
 # Employee Record System
