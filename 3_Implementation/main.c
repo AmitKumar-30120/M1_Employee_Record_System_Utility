@@ -19,9 +19,9 @@
     char other, option;
 
  void List_Record(){
-     rewind(fp); ///this moves file cursor to start of the file
-                while(fread(&entity,record_size,1,fp)==1){ /// read the file and fetch the record one record per fetch
-                    printf("\n%s %d %.2f\n",entity.name,entity.age,entity.bs); /// print the name, age and basic salary
+     rewind(fp); ///this will move the  file cursor to start of the file
+                while(fread(&entity,record_size,1,fp)==1){ 
+                    printf("\n%s %d %.2f\n",entity.name,entity.age,entity.bs); /// print the name, age and basic salary of the employee
                 }
  }
 
@@ -31,11 +31,11 @@ other = 'y';
                     printf("Enter the employee name to modify: ");
                     scanf("%s", employeename);
                     rewind(fp);
-                    while(fread(&entity,record_size,1,fp)==1){ /// fetch all record from file
-                        if(strcmp(entity.name,employeename) == 0){ ///if entered name matches with that in file
+                    while(fread(&entity,record_size,1,fp)==1){ /// fetch all record from text file 
+                        if(strcmp(entity.name,employeename) == 0){ ///if entered name matches with that name in file
                             printf("\nEnter new employee name, age and bs: ");
                             scanf("%s%d%f",entity.name,&entity.age,&entity.bs);
-                            fseek(fp,-record_size,SEEK_CUR); /// move the cursor 1 step back from current position
+                            fseek(fp,-record_size,SEEK_CUR); /// it will move the cursor 1 step back from current position
                             fwrite(&entity,record_size,1,fp); /// override the record
                             break;
                         }
@@ -53,10 +53,11 @@ other = 'y';
                     flush();
                     printf("\nEnter name of employee to delete: ");
                     fgets(employeename,40, stdin);
-                    ft = fopen("Temp.dat","wb");  /// create a intermediate file for temporary storage
+                    ft = fopen("Temp.dat","wb");  
                     rewind(fp); /// move record to starting of file
                     while(fread(&entity,record_size,1,fp) == 1){ /// read all records from file
-                        if(strcmp(entity.name,employeename) != 0){ /// if the entered record match
+                        if(strcmp(entity.name,employeename) != 0){ 
+                            /// if the entered record match
                             fwrite(&entity,record_size,1,ft); /// move all records except the one that is to be deleted to temp file
                         }
                     }
