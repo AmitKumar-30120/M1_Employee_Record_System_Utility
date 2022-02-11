@@ -1,6 +1,6 @@
 # BADGES
 
-![Codacy Badge](https://app.codiga.io/public/project/30986/M1_Utility_Employee_Record_System/dashboard)
+![Code Quality](https://app.codacy.com/gh/AmitKumar-30120/M1_Employee_Record_System_Utility/dashboard)
 
 ## Code Quality
 
